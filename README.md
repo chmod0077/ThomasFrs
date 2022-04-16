@@ -6,7 +6,7 @@ from the moment I started programming in April 2020.
 
 ## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=thomasfrs&show_icons=true&theme=tokyonight&hide_border=true)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfrs&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfrs&theme=tokyonight&layout=compact&hide_border=true)
 
 ## My Projects
 - [Project Euler](https://github.com/thomasfrs/project-euler), (Python, C++, C) makes me solve mathematical problems, hepls me enhance my problem-solving skill and makes me learn new languages.
