@@ -1,8 +1,18 @@
 # Hi there!
-- Hi, I'm Thomas François aka ThomasFrs.
-- I've been working on multiple projects using multiple coding languages (C, C++, JS, C# and mostly Python)\
-from the moment I started programming in April 2020.
-- Do not hesitate to contact me!
+```cpp
+#include <iostream>
+using namespace std;
+
+int main(){
+  cout << "Hi, I'm Thomas François aka ThomasFrs." << endl;
+  cout << "I've been working on multiple projects using multiple coding languages (C, C++, JS, C# and mostly Python)" << endl;
+  cout << "from the moment I started programming in April 2020." << endl;
+  cout << "Do not hesitate to contact me!";
+  return 0;
+ }
+```
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasfrs&label=Profile%20views&color=0e75b6&style=flat" alt="thomasfrs" /> </p>
 
 ## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=thomasfrs&show_icons=true&theme=tokyonight&hide_border=true)
