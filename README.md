@@ -1,6 +1,6 @@
 # Hi there!
 ## About Me
-I'm Anna, a CS and Maths student, I try to understand things to use them efficiently.
+I like to learn and analyse things, so I can solve problems thoroughly.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasfrs&label=Profile%20views&color=0e75b6&style=flat" alt="thomasfrs" /> </p>
 
